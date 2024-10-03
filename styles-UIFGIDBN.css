@@ -1,0 +1,1 @@
+body{font-family:Fira Code,monospace;margin:5px;font-style:italic;font-size:15px}*{box-sizing:border-box}.flex-container{display:flex;flex-direction:row}.flex-item-left{display:flex;align-items:center;flex:20%}.flex-item-right{flex:80%}.titleFont{font-size:28px;color:#000}@media (max-width: 800px){.flex-container{flex-direction:column}}
